@@ -1,5 +1,5 @@
 import { mount } from "svelte";
-import "./app.css";
+import "./index.css";
 import config from "./config";
 import App from "./App.svelte";
 

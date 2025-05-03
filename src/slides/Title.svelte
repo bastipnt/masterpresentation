@@ -93,7 +93,7 @@
 
     const draw = () => {
       if (!animating) return;
-      if (currentSlideId !== "title-slide-1") return;
+      if (currentSlideId !== "title") return;
 
       ctx.clearRect(0, 0, width, height);
 
@@ -127,31 +127,25 @@
 </script>
 
 <section id="intro">
-  <section id="title-slide-1">
-    <h3 class="text-left">Web Tracking:</h3>
-    <ul class="w-full">
-      <li>Recap: Why?</li>
-      <li>Use and Misuse of Web Tracking</li>
-      <li>Research on Mitigation Strategies</li>
-      <li>Survey of acceptance and knowledge on Web Tracking</li>
-      <li>Project</li>
-      <li>Outlook</li>
-    </ul>
-    <!-- <ul>
-      <li>Data Protection: How does your digital fingerprint sound</li>
-      <li>The Art of Surveillance: Mitigation of web tracking with the help of audiovisual art</li>
-    </ul> -->
+  <section id="title">
+    <h2>Online Privacy:</h2>
+    <h3 class="pb-8">How to Mitigate Web Tracking</h3>
+    <p>Master's Thesis Presentation</p>
+    <p>Sebastian Paintner</p>
+    <p class="text-stroke-light"><small>06.05.2025</small></p>
   </section>
 
-  <!-- <section id="structure">
-    <h3 class="text-left">Structure:</h3>
-    <ul>
-      <li>Recap: Web Tracking</li>
-      <li>Use and Misuse of Web Tracking</li>
-      <li>Research on Mitigation Strategies</li>
-      <li>Survey of acceptance and knowledge on Web Tracking</li>
-      <li>Project: Learning with the help of music and visuals</li>
-      <li>Outlook</li>
+  <section id="agenda">
+    <h3 class="text-left">Agenda:</h3>
+    <ul class="w-full">
+      <li>Introduction</li>
+      <li>Web Tracking (Use & Misuse)</li>
+      <li>Project 1: Survey</li>
+      <li>Device Fingerprinting</li>
+      <li>Project 2: Fingerprint Sound</li>
+      <li>Mitigation Strategies</li>
+      <li>Project 3: Protect Your Online Privacy</li>
+      <li>Conclusion & Discussion</li>
     </ul>
-  </section> -->
+  </section>
 </section>

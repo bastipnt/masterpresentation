@@ -14,7 +14,7 @@ import "./assets/dracula.css";
 export default {
   // App Config
   app: {
-    name: "Masterkolloquium 2",
+    name: "Masterpresentation",
   },
   // Reveal Config
   reveal: {
