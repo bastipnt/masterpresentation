@@ -139,7 +139,7 @@
     <h3 class="text-left">Agenda:</h3>
     <ul class="w-full">
       <li>Introduction</li>
-      <li>Web Tracking (Use & Misuse)</li>
+      <li>Web Tracking (Use, Misuse & Methods)</li>
       <li>Project 1: Survey</li>
       <li>Device Fingerprinting</li>
       <li>Project 2: Fingerprint Sound</li>

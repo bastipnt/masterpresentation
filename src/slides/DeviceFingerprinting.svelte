@@ -35,7 +35,7 @@
       {`
         function collectAttributes() {
           return {
-            screenResolution: \`${screen.width}x${screen.height}\`,
+            screenResolution: \`\${screen.width}x\${screen.height}\`,
             colorDepth: screen.colorDepth,
             timezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
             hdr: matchMedia("(dynamic-range: high)")?.matches,
@@ -84,7 +84,7 @@
   <section id="device-fingerprinting-canvas">
     <h3 class="text-left">Canvas Fingerprint:</h3>
     <pre>
-      <code data-trim class="language-ts" data-line-numbers="1-4|6-13|15-19|21-26|28-32|34-35">
+      <code data-trim class="language-ts" data-line-numbers="1-4|6-13|15-18|20-25|27-31|33-34">
         {`
           const murmurHash3 = require('murmurhash3.js');
 
@@ -100,16 +100,15 @@
               return data;
             }
 
-            ctx.textBaseline = "alphabetic";
-            ctx.fillStyle = "#f60";
+            ctx.fillStyle = "#f60"; // orange
             ctx.fillRect(100, 1, 62, 20);
-            ctx.fillStyle = "#069";
+            ctx.fillStyle = "#069"; // blue
             ctx.font = '11pt "Times New Roman"';
 
             const printedText = \`Cwm fjordbank glyphs vext quiz,
               \${String.fromCharCode(55357, 56835)}\`;
             ctx.fillText(printedText, 2, 15);
-            ctx.fillStyle = "rgba(102, 204, 0, 0.2)";
+            ctx.fillStyle = "rgba(102, 204, 0, 0.2)"; // green
             ctx.font = "18pt Arial";
             ctx.fillText(printedText, 4, 45);
 

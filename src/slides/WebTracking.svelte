@@ -1,5 +1,13 @@
 <section id="web-tracking">
   <section id="web-tracking-intro">
+    <h3 class="text-left">What is Web Tracking?</h3>
+    <p>
+      <strong>Web Tracking</strong> is the practice of monitoring and recording ones online activities,
+      allowing companies to gather insights about users behavior.
+    </p>
+  </section>
+
+  <section id="web-tracking-why">
     <h3 class="text-left">Why Web Tracking?</h3>
     <ul class="w-full">
       <li>Web tracking is pervasive: 71% of top websites include trackers</li>
@@ -26,6 +34,15 @@
       <li>Manipulation (political, behavioral)</li>
       <li>Lack of user control or transparency</li>
       <li>High risk of data breaches</li>
+    </ul>
+  </section>
+
+  <section id="web-tracking-methods">
+    <h3 class="text-left">Methods:</h3>
+    <ul class="w-full">
+      <li>Cookie based tracking</li>
+      <li>Tracking Pixels</li>
+      <li>Fingerprinting</li>
     </ul>
   </section>
 </section>

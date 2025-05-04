@@ -25,7 +25,7 @@
         <tr><td>Firefox</td><td>Yes</td><td>Partly</td><td>No</td></tr>
         <tr><td>DuckDuckGo</td><td>No</td><td>Yes</td><td>No</td></tr>
         <tr><td>Ghostery</td><td>No</td><td>Yes</td><td>No</td></tr>
-        <tr><td>Brave</td><td>No</td><td>Yes but with exceptions</td><td>NoTODO:???</td></tr>
+        <tr><td>Brave</td><td>No</td><td>Yes but with exceptions</td><td>Yes</td></tr>
         <tr><td>Tor</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
         <tr><td>LibreWolf</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
         <tr><td>Mullvad</td><td>No</td><td>Yes</td><td>Yes</td></tr>
