@@ -89,7 +89,7 @@
           const murmurHash3 = require('murmurhash3.js');
 
           const getCanvas2D = () => {
-            const data = "Unknown";
+            let data = "Unknown";
 
             const canvas = document.createElement("canvas");
             canvas.width = 240;
