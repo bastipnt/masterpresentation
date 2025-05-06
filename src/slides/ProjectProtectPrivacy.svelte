@@ -41,7 +41,7 @@
   </section>
 
   <section id="project-pivacy-protect-fp-blocking-detection">
-    <h3 class="text-left">Canvas 2D tampering detection:</h3>
+    <h3 class="text-left">Fingerprint protection detection:</h3>
     <pre>
       <code data-trim class="language-ts">
         {`

@@ -132,6 +132,9 @@
     <h3 class="pb-8">How to Mitigate Web Tracking</h3>
     <p>Master's Thesis Presentation</p>
     <p>Sebastian Paintner</p>
+    <p class="text-stroke-light">
+      <small>Prof. Albert Lang & Prof. Dr. phil. Alberto de Campo</small>
+    </p>
     <p class="text-stroke-light"><small>06.05.2025</small></p>
   </section>
 
@@ -147,5 +150,30 @@
       <li>Project 3: Protect Your Online Privacy</li>
       <li>Conclusion & Discussion</li>
     </ul>
+  </section>
+
+  <section id="intro-web-tracking">
+    <h3 class="text-left">What is Web Tracking?</h3>
+    <p>
+      <strong>Web Tracking</strong> is the practice of monitoring and recording ones online activities,
+      allowing companies to gather insights about users behavior.
+    </p>
+  </section>
+
+  <section id="intro-why">
+    <h3 class="text-left">Why Web Tracking?</h3>
+    <ul class="w-full">
+      <li>Web tracking is pervasive: 71% of top websites include trackers</li>
+      <li>Revenue from targeted ads: Google made $200B in 2022</li>
+      <li>Users are often unaware or uncomfortable with being tracked</li>
+    </ul>
+  </section>
+
+  <section id="intro-research-question">
+    <h3 class="text-left">Research Question</h3>
+    <p>
+      How do web tracking and targeted advertising compromise our privacy, and what measures can be
+      taken to protect it?
+    </p>
   </section>
 </section>

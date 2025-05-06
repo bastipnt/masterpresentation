@@ -1,21 +1,4 @@
 <section id="web-tracking">
-  <section id="web-tracking-intro">
-    <h3 class="text-left">What is Web Tracking?</h3>
-    <p>
-      <strong>Web Tracking</strong> is the practice of monitoring and recording ones online activities,
-      allowing companies to gather insights about users behavior.
-    </p>
-  </section>
-
-  <section id="web-tracking-why">
-    <h3 class="text-left">Why Web Tracking?</h3>
-    <ul class="w-full">
-      <li>Web tracking is pervasive: 71% of top websites include trackers</li>
-      <li>Revenue from targeted ads: Google made $200B in 2022</li>
-      <li>Users are often unaware or uncomfortable with being tracked</li>
-    </ul>
-  </section>
-
   <section id="web-tracking-use">
     <h3 class="text-left">Use:</h3>
     <ul class="w-full">
