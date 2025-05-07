@@ -47,7 +47,7 @@
   <section id="survey-results-3">
     <h3 class="text-left">Results:</h3>
     <div class="flex flex-row justify-center">
-      <img class="h-[40vh]" src={learningMethods} alt="learning methods" />
+      <img class="h-[60vh]" src={learningMethods} alt="learning methods" />
     </div>
   </section>
 </section>
