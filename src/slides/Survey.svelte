@@ -50,4 +50,13 @@
       <img class="h-[60vh]" src={learningMethods} alt="learning methods" />
     </div>
   </section>
+
+  <section id="survey-conclusion">
+    <h3 class="text-left">Conclusion:</h3>
+    <ul class="w-full">
+      <li>Results reveal lack of knowledge about web tracking</li>
+      <li>Most participants feel uncomfortable with being tracked</li>
+      <li>Expressed interest in learning more (video, non-technical reading, art)</li>
+    </ul>
+  </section>
 </section>

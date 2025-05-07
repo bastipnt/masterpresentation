@@ -14,6 +14,6 @@
 
   <section id="conclusion-end" class="h-full flex flex-col">
     <h3 class="text-left">Thanks for your attention!</h3>
-    <img class="inline-block" src={qrCode} alt="online privacy QR Code" />
+    <img class="inline-block h-[80%]" src={qrCode} alt="online privacy QR Code" />
   </section>
 </section>
